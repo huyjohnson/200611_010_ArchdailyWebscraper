@@ -1,5 +1,5 @@
 # Archdaily Image Scraper v1.0
-Author: Jacob Hu\
+Author: huyjohnson\
 Date: 2020/06/11
 
 # Comments
