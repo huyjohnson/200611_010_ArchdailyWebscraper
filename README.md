@@ -6,5 +6,5 @@ Date: 2020/06/11
 v1.0 of my Archdaily image scraper. \
 \
 Works only in Archdaily's gallery container as of now. \
-Requires user input in webpage url and file name. \
-Useful namechange feature, requires changing name in script.
+Requires user input in webpage url. \
+Useful name change feature, requires changing 'architectName' variable in script.
