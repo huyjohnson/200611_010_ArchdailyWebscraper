@@ -1,8 +1,8 @@
-# 200611_010_ArchdailyWebscraper
-Archdaily Image Scraper v1.0
-
-# Author: Jacob Hu
-# Date: 2020/06/11
+# Archdaily Image Scraper v1.0
+Author: Jacob Hu
+Date: 2020/06/11
 
 # Comments
-v1.0 of my Archdaily image scraper. Works only in Archdaily's gallery container.
+v1.0 of my Archdaily image scraper. Works only in Archdaily's gallery container as of now. \n
+Requires user input in webpage url and file name. \n
+Useful namechange feature, requires changing name in script.
