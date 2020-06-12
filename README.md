@@ -1,6 +1,6 @@
 # Image Scraper 
 Author: huyjohnson\
-Date: 2020/06/11\
+Date: 2020/06/11
 
 # Contents:
 Archdaily image scraper v1.0\
