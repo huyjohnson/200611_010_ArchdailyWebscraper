@@ -3,7 +3,7 @@ Author: huyjohnson\
 Date: 2020/06/11\
 
 # Contents:
-Archdaily image scraperv1.0\
+Archdaily image scraper v1.0\
 Dezeen image scraper v1.0
 
 # Comments
