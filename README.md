@@ -1,6 +1,9 @@
-# Archdaily Image Scraper v1.0
+# Image Scraper 
 Author: huyjohnson\
-Date: 2020/06/11
+Date: 2020/06/11\
+Contents:\
+Archdaily image scraperv1.0\
+Dezeen image scraper v1.0
 
 # Comments
 v1.0 of my Archdaily image scraper. \
